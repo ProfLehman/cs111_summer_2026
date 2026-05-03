@@ -44,7 +44,7 @@
 
 ---
 
-## Week #2 - Hex, ASCII, Compression  
+## Week #2 - ASCII, Compression, Logic, Hardware  
 
 ### Data Representation (ASCII, UNICODE)
 
@@ -82,10 +82,6 @@
 -  (*Optional*) Humor Watch Video [File Formats Video by Elle Cordova](https://www.youtube.com/shorts/T8dVdye559E)
 
 
----
-
-## Week #3 - Logic, Hardware
-
 ### **Logic Gates and Computer Architecture**
 
 - Read [Welcome to CS - Chapter 5 – Logic Gates and Circuits](https://runestone.academy/ns/books/published/welcomecs2/logic-circuits_logic-gates-circuits.html?mode=browsing)
@@ -104,12 +100,12 @@
   
 ---
 
-## Week #4 - Exam #1 Review
+## Week #3 - Exam #1 Review
 
-See [Exam #1 Review](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam1/exam1_review_topics.md)
+See [Exam #1 Review](https://github.com/ProfLehman/cs111_summer_2026/blob/main/topics/exam1/exam1_review_topics.md)
 
 ---
 
-Updated January 14, 2026
+Updated May 4, 2026
 
 ---
