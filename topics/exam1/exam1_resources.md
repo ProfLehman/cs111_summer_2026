@@ -14,7 +14,7 @@
 - Read: [*Welcome to CS* - Chapter 2 History of Computers](https://runestone.academy/ns/books/published/welcomecs2/history-of-computers_history-of-computers.html?mode=browsing)
 
 - Watch Video: [Computing History (YouTube Playlist - 5 videos) ](https://youtube.com/playlist?list=PLIVM1Y_L5QnEdlG40-uVfZzvsRtnksK_E&si=8tqU7IdXx0XYMkwh)
-- Presentation from Video: [Computing History (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681598)
+- Presentation from Video: [Computing History (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=698246)
 
 - Resource: [Napier’s Bones — Class Handout (PDF)](https://moodle.huntington.edu/mod/folder/view.php?id=683107)
 
