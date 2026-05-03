@@ -10,7 +10,7 @@ The exam is online, with all answers entered via a Moodle quiz in the Respondus 
 - Phones should not be checked or near you during the exam. 
 - **basic calculator** will be available on the exam in the browser. You may use a blank piece of paper and a pencil. Note that you are asked to show your work to the camera at the end of the exam. 
 
-## Respondus Browser Test (Complete by Wednesday February 11th in case you need tech support)
+## Respondus Browser Test (Complete by Wednesday February 20th in case you need tech support)
 See Moodle link at [Respondus Browser Test](https://moodle.huntington.edu/mod/quiz/view.php?id=686799)
 
 
@@ -18,7 +18,7 @@ See Moodle link at [Respondus Browser Test](https://moodle.huntington.edu/mod/qu
 
 Exam questions will be selected from the topics listed below. You should review ...
 
-1. [Exam 1 Resources](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam1/exam1_resources.md) inlcuding H5P/PowerPoint Presentations and handouts    
+1. [Exam 1 Resources](https://github.com/ProfLehman/cs111_summer_2026/blob/main/topics/exam1/exam1_resources.md) inlcuding H5P/PowerPoint Presentations and handouts    
 
 2. Course assignments and discussions posted on Moodle.
 
@@ -26,7 +26,7 @@ Exam questions will be selected from the topics listed below. You should review 
 
 4. Complete [Exam 1 review questions assignment](https://moodle.huntington.edu/mod/quiz/view.php?id=681614)  Note: you can submit this assignment multiple times! (takes the highest score and questions are selected at random)
 
-5. [In-class (or online on your own) review questions](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam1/handouts/cs111_exam1_in_class_review.pdf) for binary, hex, ascii, and logic.  Can also watch video walkthrough of [for solutions to in-class review questions](https://youtu.be/he_kxozvsUg)
+5. [In-class (or online on your own) review questions](https://github.com/ProfLehman/cs111_summer_2026/blob/main/topics/exam1/handouts/cs111_exam1_in_class_review.pdf) for binary, hex, ascii, and logic.  Can also watch video walkthrough of [for solutions to in-class review questions](https://youtu.be/he_kxozvsUg)
 
 
 ---
