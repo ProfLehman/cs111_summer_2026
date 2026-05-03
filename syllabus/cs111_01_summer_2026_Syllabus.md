@@ -154,7 +154,9 @@ Unless otherwise noted, **all coursework is due on Mondays at 11:59 pm Indiana (
 
 Students are encouraged to start early in the week and ask questions as needed. The instructor will try to respond within 24 hours on weekdays (usually more quickly). Questions asked late at night or over the weekend may be answered the next business day.
 
-- **Assignments:** Late work is accepted up to **48 hours after the deadline** with a **10% penalty per assignment**, unless otherwise noted. Given the compressed schedule, extensions are rarely granted.
+Each week’s materials will open on **Friday of the previous week**, providing 10-11 days including two weekends to complete the work.
+
+- **Assignments:** Late work is accepted up to **48 hours after the deadline** with a **10% penalty per assignment**, unless otherwise noted. Given the compressed schedule, extensions are granted only for extreme hardship (see below). **Assignments submitted more than 48 hours late are not eligible for credit.**
 - **Discussion Posts:** Must be submitted on time. **Late discussion posts do not receive credit.**
 - **Exams:** Must be completed by the posted deadline. **Late exams are not accepted** unless prior arrangements are made with the instructor.
 - Assignments must be submitted through Moodle unless otherwise instructed.
