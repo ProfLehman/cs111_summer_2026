@@ -144,16 +144,22 @@ Weekly assignments help students apply and integrate concepts discussed in the t
 
 Success in this course depends on steady participation and consistent effort rather than last-minute work. Weekly assignments are intended to be worked on throughout the week as part of regular course engagement.
 
-Unless otherwise noted, **all assignments are due by Monday at 11:59 pm Indiana (Eastern) Time**. 
-
-Students are always encouraged to ask questions. The instructor will try to respond within 24 hours on weekdays (usually more quickly!); questions asked late at night or over the weekend may be answered the next business day.
-
-- Assignments must be submitted through Moodle unless otherwise instructed.  
-- Late work is accepted up to **48 hours after the deadline with a 10% penalty per assignment** (based on the total points for that assignment), unless otherwise noted.  
-- In cases of extreme hardship or documented circumstances, students should notify the instructor as soon as possible.  
-- Grades will be posted in Moodle. Students are responsible for reviewing their grades and reporting discrepancies promptly.
-
 ---
+
+## Late Policy
+
+This 3-credit course moves quickly, covering the same material as a 15-week course in a shortened summer term. **Staying on schedule is essential.**
+
+Unless otherwise noted, **all coursework is due on Mondays at 11:59 pm Indiana (Eastern) Time**.
+
+Students are encouraged to start early in the week and ask questions as needed. The instructor will try to respond within 24 hours on weekdays (usually more quickly). Questions asked late at night or over the weekend may be answered the next business day.
+
+- **Assignments:** Late work is accepted up to **48 hours after the deadline** with a **10% penalty per assignment**, unless otherwise noted. Given the compressed schedule, extensions are rarely granted.
+- **Discussion Posts:** Must be submitted on time. **Late discussion posts do not receive credit.**
+- **Exams:** Must be completed by the posted deadline. **Late exams are not accepted** unless prior arrangements are made with the instructor.
+- Assignments must be submitted through Moodle unless otherwise instructed.
+- In cases of extreme hardship or documented circumstances, students should notify the instructor as soon as possible.
+- Grades will be posted in Moodle. Students are responsible for reviewing their grades and reporting discrepancies promptly.
 
 
 ## Review Question Sets (5%)
