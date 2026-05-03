@@ -16,7 +16,7 @@
 - Watch Video: [Computing History (YouTube Playlist - 5 videos) ](https://youtube.com/playlist?list=PLIVM1Y_L5QnEdlG40-uVfZzvsRtnksK_E&si=8tqU7IdXx0XYMkwh)
 - Presentation from Video: [Computing History (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=698246)
 
-- Resource: [Napier’s Bones — Class Handout (PDF)](https://moodle.huntington.edu/mod/folder/view.php?id=683107)
+- Resource: [Napier’s Bones — Class Handout (PDF)](https://moodle.huntington.edu/mod/folder/view.php?id=698245)
 
 
 ### Binary, Hex
@@ -28,7 +28,7 @@
 - Resource: [Number Bases Summary — Class Handout - with solutions (PDF)](/topics/exam1/handouts/cs111_number_bases_handout_with_sample_conversions.pdf)  
 
 - Watch Video: [Binary Hex (YouTube Playlist – 3 videos)](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnGFbEr5-v3HyMciMkdnmR1e)
-- Presentation from Video: [Binary Hex (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681601)
+- Presentation from Video: [Binary Hex (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=698247)
 
 - (*Optional*) Watch Video (older presentation with different examples): [Binary Hex (YouTube Playlist – 7 videos)](https://youtube.com/playlist?list=PLIVM1Y_L5QnGty-lw0M-Xds-MA8YG-SHY&si=tg-RGV3VH40kL85a) *(Note: We are not using zyBooks shown in the first part of the video.)* 
 (Videos are 1. Decimal, 2. Binary, 3. Binary to Decimal, 4. Decimal to Binary, 5. Hex, 6. Hex to Binary, 7. Checking Your Work)  
