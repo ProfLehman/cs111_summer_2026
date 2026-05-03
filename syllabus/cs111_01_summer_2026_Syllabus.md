@@ -160,7 +160,7 @@ Each week’s materials will open on **Friday of the previous week**, providing 
 - **Discussion Posts:** Must be submitted on time. **Late discussion posts do not receive credit.**
 - **Exams:** Must be completed by the posted deadline. **Late exams are not accepted** unless prior arrangements are made with the instructor.
 - Assignments must be submitted through Moodle unless otherwise instructed.
-- In cases of extreme hardship or documented circumstances, students should notify the instructor as soon as possible.
+- In cases of documented, significant circumstances (e.g., serious illness, hospitalization, death in the immediate family), students should notify the instructor as soon as possible. Routine conflicts (work schedules, travel, technical issues, etc.) are not considered extreme hardship.
 - Grades will be posted in Moodle. Students are responsible for reviewing their grades and reporting discrepancies promptly.
 
 
