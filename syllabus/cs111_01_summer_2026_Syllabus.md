@@ -160,14 +160,13 @@ Each week’s materials will open on **Friday of the previous week**, providing 
 - **Discussion Posts:** Must be submitted on time. **Late discussion posts do not receive credit.**
 - **Exams:** Must be completed by the posted deadline. **Late exams are not accepted** unless prior arrangements are made with the instructor.
 - Assignments must be submitted through Moodle unless otherwise instructed.
-- In cases of documented, significant circumstances (e.g., serious illness, hospitalization, death in the immediate family), students should notify the instructor as soon as possible. Routine conflicts (work schedules, travel, technical issues, etc.) are not considered extreme hardship.
+- In cases of extreme hardship (e.g., medical emergencies), please notify the instructor as soon as possible. Routine conflicts (work schedules, travel, technical issues, etc.) are not considered extreme hardship. 
 - Grades will be posted in Moodle. Students are responsible for reviewing their grades and reporting discrepancies promptly.
 
 
 ## Review Question Sets (5%)
 
 Review questions will be posted for each topic to help reinforce your understanding of the material. These questions are similar to those you will encounter on exams. You are encouraged to work through them until you answer all questions correctly. Although they are listed as a 'Quiz' in Moodle, you can submit your answers multiple times, with your highest score being recorded. The review questions are open-book.
-
 
 ---
 
@@ -227,7 +226,7 @@ Faculty will work with ACE to support eligible students.
 
 ## Schedule and Exams
 
-Exams are **closed notes**. Review topics and sample questions are provided. Exams #1 and #2 are online and require Respondus browser and a web camera. 
+Exams are **closed notes** unless otherwise noted. Review topics and sample questions are provided. All exams are online and require Respondus browser and a web camera. 
 
 - **Exam #1: Week #3 (On-line via Respondus Browser)**
 - **Exam #2: Week #5 (On-line via Respondus Browser)**
