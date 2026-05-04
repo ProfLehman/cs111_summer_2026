@@ -73,8 +73,8 @@ Each course component is worth a specific number of points. The percentage of to
 
 | Component                         | Points | Percent |
 |-----------------------------------|--------|---------|
-| Course Engagement                 | 75     | 7.5%      |
-| Weekly Assignments (x13)          | 350    | 37.5%     |
+| Course Engagement                 | 75     | 7.5%    |
+| Weekly Assignments (x13)          | 375    | 37.5%   |
 | Review Question Sets (x3)         | 50     | 5%      |
 | Exams #1 & #2                     | 300    | 30%     |
 | Exam #3 (final)                   | 200    | 20%     |
@@ -97,11 +97,11 @@ Each course component is worth a specific number of points. The percentage of to
 
 ---
 
-## Course Engagement and Discussions (8%)
+## Course Engagement and Discussions (7.5%)
 
 Active Course Engagement is vital for success in this course. Weekly readings and videos present the course material and provide the background needed to complete assignments and prepare for exams. Students are responsible for reading all assigned materials and viewing course videos.
 
-Students are encouraged to take notes summarizing topics covered in readings, videos, and class sessions, and to send questions via email or text when clarification is needed.
+Students are encouraged to take notes summarizing topics covered in readings and videos, and to send questions via email or text when clarification is needed.
 
 **Course Engagement grades** are recorded after each exam:
 - 20 points after Exam #1  
@@ -136,11 +136,11 @@ Completion of discussion questions contributes to the **Course Engagement grade*
 
 ---
 
-## Weekly Assignments (38%)
+## Weekly Assignments (37.5%)
 
 Weekly Assignments are a central part of **Course Engagement** in this course. They are designed to help you practice new concepts, apply what you are learning, and reflect on your progress throughout the semester.
 
-Weekly assignments help students apply and integrate concepts discussed in the text, online resources, and class sessions (in-person). The material covered in these assignments will assist students in preparing for exams and projects. Students should ensure that all submitted work is neat, organized, and clearly labeled with their first and last name. Assignments should be submitted through Moodle unless otherwise instructed.
+Weekly assignments help students apply and integrate concepts discussed in the text, online resources, and videos. The material covered in these assignments will assist students in preparing for exams and projects. Students should ensure that all submitted work is neat, organized, and clearly labeled with their first and last name. Assignments should be submitted through Moodle unless otherwise instructed.
 
 Success in this course depends on steady participation and consistent effort rather than last-minute work. Weekly assignments are intended to be worked on throughout the week as part of regular course engagement.
 
@@ -152,7 +152,7 @@ This 3-credit course moves quickly, covering the same material as a 15-week cour
 
 Unless otherwise noted, **all coursework is due on Mondays at 11:59 pm Indiana (Eastern) Time**.
 
-Students are encouraged to start early in the week and ask questions as needed. The instructor will try to respond within 24 hours on weekdays (usually more quickly). Questions asked late at night or over the weekend may be answered the next business day.
+Students are encouraged to **start early in the week** and ask questions as needed. The instructor will try to respond within 24 hours on weekdays (usually more quickly). Questions asked late at night or over the weekend may be answered the next business day.
 
 Each week’s materials will open on **Friday of the previous week**, providing 10-11 days including two weekends to complete the work.
 
@@ -160,7 +160,7 @@ Each week’s materials will open on **Friday of the previous week**, providing 
 - **Discussion Posts:** Must be submitted on time. **Late discussion posts do not receive credit.**
 - **Exams:** Must be completed by the posted deadline. **Late exams are not accepted** unless prior arrangements are made with the instructor.
 - Assignments must be submitted through Moodle unless otherwise instructed.
-- In cases of extreme hardship (e.g., medical emergencies), please notify the instructor as soon as possible. Routine conflicts (work schedules, travel, technical issues, etc.) are not considered extreme hardship. 
+- In cases of extreme hardship (e.g., medical emergencies), please notify the instructor as soon as possible. Routine conflicts (e.g. work schedules and travel) are not considered extreme hardship. 
 - Grades will be posted in Moodle. Students are responsible for reviewing their grades and reporting discrepancies promptly.
 
 
