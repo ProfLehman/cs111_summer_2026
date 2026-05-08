@@ -50,7 +50,7 @@
 
 - Watch Video: [Storing Text](https://youtu.be/mKZHwP11mM4)
 
-- Presentation from Video: [Storing Text (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681604)
+- Presentation from Video: [Storing Text (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=698248)
 
 - Link: [ASCII](https://www.ascii-code.com/)
 
@@ -67,7 +67,7 @@
 
 - Watch Video: [Data Representation & Compression](https://youtu.be/37DSj8U-yK4)
 
-- Presentation from Video: [Data Representation & Compression (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681605)
+- Presentation from Video: [Data Representation & Compression (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=698249)
 
 - Watch Video - [Huffman Code Example – Sara Arnn (MP4)](https://youtu.be/M4J5ZOb0vVw)
 
