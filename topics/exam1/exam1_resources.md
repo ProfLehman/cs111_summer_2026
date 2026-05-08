@@ -60,7 +60,7 @@
 
 - Link: [RapidTables - Binary to ASCII text](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
 
-- Link: [RapidTables - ASCII Text to binary, decial, hex](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
+- Link: [RapidTables - ASCII Text to binary, decimal, hex](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
 
 
 ### Compression (Zip, Huffman Code)
@@ -88,13 +88,13 @@
 
 - Watch Video: [Logic Gates](https://youtube.com/playlist?list=PLIVM1Y_L5QnHWbNo2V1wTn_PcUT9FvV76&si=1FIaKFVoxtdrHPP7)
 
-- See Logic Gates Practice shown in video on Moodle
+- See Logic Gates Practice shown in the video on Moodle
 
 - Read [Welcome to CS –Chapter 6 – Computer Architecture & the Machine Cycle](https://runestone.academy/ns/books/published/welcomecs2/computer-architecture_computer-architecture-the-machine-cycle.html?mode=browsing)
  
 - Watch Video: [Computing Hardware](https://youtube.com/playlist?list=PLIVM1Y_L5QnGcHUZiRKD6NYai8FOO1yFb&si=_hupWhqB7My0AUNA)
 
-- Presentation from [Hardware Video](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam1/hardware/computer_hardware.md))
+- Presentation from [Hardware Video](https://github.com/ProfLehman/cs111_summer_2026/blob/main/topics/exam1/hardware/computer_hardware.md)
    
 - Link: [PC Part Picker](https://pcpartpicker.com/)
   
