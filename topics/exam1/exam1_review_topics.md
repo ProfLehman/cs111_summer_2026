@@ -28,6 +28,7 @@ Exam questions will be selected from the topics listed below. You should review 
 
 5. [In-class (or online on your own) review questions](https://github.com/ProfLehman/cs111_summer_2026/blob/main/topics/exam1/handouts/cs111_exam1_in_class_review.pdf) for binary, hex, ascii, and logic.  Can also watch video walkthrough of [for solutions to in-class review questions](https://youtu.be/he_kxozvsUg)
 
+6. [Sample Circuit to test understanding of outputs](https://circuitverse.org/simulator/embed/exam-1-review-f5da8ff3-84b4-4bcd-8639-a2dc8bacd0df)  
 
 ---
 # Exam Topics
