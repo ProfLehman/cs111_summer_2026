@@ -130,8 +130,8 @@
 - [Google NotebookLM](https://notebooklm.google.com/)  
   Tool for creating study guides, summaries, podcasts, and other learning resources.
 
-- [Microsoft Copilot](https://www.microsoft.com)  
-  Powered by OpenAI's GPT models and integrated into Microsoft 365 tools.
+- [Microsoft Copilot](https://copilot.microsoft.com/)  
+  Microsoft's AI companion for asking questions, getting help with writing, generating ideas, and more.
 
 - [Anthropic](https://www.anthropic.com)  
   Developers of the Claude series of models.
