@@ -162,7 +162,7 @@
 
 ---
 ## Exam 2 Review
-See [Exam #2 Review]()
+See [Exam #2 Review](https://github.com/ProfLehman/cs111_summer_2026/blob/main/topics/exam2/exam2_review_topics.md)
 
 ---
 
