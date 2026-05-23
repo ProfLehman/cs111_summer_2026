@@ -115,15 +115,55 @@
 
 * Presentation Notes from Videos: See AI Presentation March 2026 Final PowerPoint on the course Moodle website
 
+## History of AI
+
+- [History of AI](https://www.w3schools.com/ai/ai_history.asp)
+
+## Popular AI Models and Tools
+
+- [OpenAI](https://openai.com)  
+  Developers of ChatGPT.
+
+- [Google Gemini](https://gemini.google.com)  
+  Developers of Gemini, formerly known as Bard.
+
+- [Google NotebookLM](https://notebooklm.google.com/)  
+  Tool for creating study guides, summaries, podcasts, and other learning resources.
+
+- [Microsoft Copilot](https://www.microsoft.com)  
+  Powered by OpenAI's GPT models and integrated into Microsoft 365 tools.
+
+- [Anthropic](https://www.anthropic.com)  
+  Developers of the Claude series of models.
+
+- [Meta AI](https://ai.facebook.com)  
+  Facebook AI Research; developers of LLaMA.
+
+- [Cohere](https://cohere.com)  
+  Developers of Cohere language models.
+
+- [Hugging Face](https://huggingface.co)  
+  Platform for creating, sharing, and collaborating on open-source models such as BLOOM.
+
+## AI Prompts
+
+- [What is an AI Prompt?](https://www.geeksforgeeks.org/what-is-an-ai-prompt/)
+
+- [What is Prompt Engineering?](https://www.geeksforgeeks.org/what-is-prompt-engineering-the-ai-revolution/)
+
+## Sites that Rank and Evaluate AI Models
+
+- [Artificial Analysis](https://artificialanalysis.ai)  
+  Provides detailed comparisons and rankings of AI models such as ChatGPT, LLaMA, and Gemini.
+
+- [Toloka AI LLM Leaderboard](https://toloka.ai/llm-leaderboard/)  
+  Features an LLM leaderboard based on human evaluations, focusing on real-world and business applications.
+
+
 ---
 ## Exam 2 Review
 See [Exam #2 Review]()
 
--- end --
-
-
 ---
 
-Updated May 18, 2026
-
----
+Updated May 23, 2026
