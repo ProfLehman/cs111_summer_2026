@@ -15,8 +15,7 @@ The exam is online, with all answers entered via a Moodle quiz in the Respondus 
 
 Exam questions will be selected from the topics listed below. You should review ...
 
-1. [Exam 2 Resources](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/exam2_resources.md) inlcuding H5P/PowerPoint Presentations and handouts    
-
+1. [Exam 2 Resources](https://github.com/ProfLehman/cs111_summer_2026/blob/main/topics/exam2/exam2_resources.md) inlcuding H5P/PowerPoint Presentations and handouts    
 2. Course assignments and discussions posted on Moodle.
 
 3. Textbook (selected topics from Chapter 9)
@@ -28,7 +27,7 @@ Exam questions will be selected from the topics listed below. You should review 
 # Exam Topics
 
 ## Operating Systems
-- Three main OS functions: manage resources, support applications, provide user interface
+- Three main OS functions: manage resources, support applications, and provide user interface
 - Recognize current OS (Windows 11, Mac OS X, Linux, Android, iOS)
 - Command line vs GUI interfaces
 - Device drivers function
@@ -60,14 +59,14 @@ Exam questions will be selected from the topics listed below. You should review 
 ## Artificial Intelligence
 - Define AI, historical context (1950s), Turing test
 - AI categories: robotics, natural language processing, expert systems, semantic network, search tree, genetic algorithms, neural networks
-- Large Language Models (ChatGPT) use neural networks, prompts, prompt engineering
+- Large Language Models (ChatGPT) use neural networks, prompts, and prompt engineering
 - Ethical issues in AI
 
 ## Privacy & Security
 - Digital footprint: why users are not anonymous (role of IP addresses)
 - Guidelines for managing your digital footprint
 - Definitions: malware (virus, worm, trojan horse, adware, spyware)
-- Security best practices: keep software updated, strong passwords, two-step authentication
+- Security best practices: keep software updated, use strong passwords, two-step authentication
 - Concepts: spam, phishing, denial of service, firewalls, anti-virus
 - Encryption: public key (encrypts) vs private key (decrypts), https ("s" uses encryption)
 - Disaster recovery plan, 3:2:1 rule
