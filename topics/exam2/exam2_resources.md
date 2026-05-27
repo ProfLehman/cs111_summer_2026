@@ -75,7 +75,7 @@
 
 ## Security Resources
 
-- Watch Video: [Security Overview](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnHGfJ0W5HSCfolKOaP1BPCr)
+* Watch Video: [Privacy Links Overview](https://www.youtube.com/watch?v=wcYuRI3HZ0k)
 
 * Presentation Notes: [Security Overview](./security/security_overview.md)
 
