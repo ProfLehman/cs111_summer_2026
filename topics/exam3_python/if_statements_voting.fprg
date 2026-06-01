@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="if_statements_voting"/>
+        <attribute name="authors" value="jlehman"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-04-09 02:58:00 PM"/>
+        <attribute name="created" value="amxlaG1hbjs5NzQtTkItNTMyMDsyMDI2LTA0LTA5OzAyOjUxOjE4IFBNOzI2MTk="/>
+        <attribute name="edited" value="amxlaG1hbjs5NzQtTkItNTMyMDsyMDI2LTA0LTA5OzAyOjU4OjAwIFBNOzE7MjcyNQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="age" type="Integer" array="False" size=""/>
+            <output expression="&quot;Enter Age: &quot;" newline="True"/>
+            <input variable="age"/>
+            <if expression="age &gt;= 18">
+                <then>
+                    <output expression="&quot;You can vote&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Sorry, too young to vote&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

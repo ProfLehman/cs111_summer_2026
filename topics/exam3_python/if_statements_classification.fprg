@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="if_statements_classification"/>
+        <attribute name="authors" value="jlehman"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-04-09 03:32:17 PM"/>
+        <attribute name="created" value="amxlaG1hbjs5NzQtTkItNTMyMDsyMDI2LTA0LTA5OzAzOjI2OjU3IFBNOzI2MjU="/>
+        <attribute name="edited" value="amxlaG1hbjs5NzQtTkItNTMyMDsyMDI2LTA0LTA5OzAzOjMyOjE3IFBNOzE7MjcyNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="hours" type="Integer" array="False" size=""/>
+            <declare name="classification" type="String" array="False" size=""/>
+            <assign variable="classification" expression="&quot;Unknown&quot;"/>
+            <output expression="&quot;Enter Hours:&quot;" newline="True"/>
+            <input variable="hours"/>
+            <if expression="hours &gt;= 0 and hours &lt;= 25">
+                <then>
+                    <assign variable="classification" expression="&quot;Freshman&quot;"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="hours &gt;= 26 and hours &lt;= 55">
+                <then>
+                    <assign variable="classification" expression="&quot;Sophomore&quot;"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="hours &gt;= 56 and hours &lt;= 85">
+                <then>
+                    <assign variable="classification" expression="&quot;Junior&quot;"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="hours &gt;= 86">
+                <then>
+                    <assign variable="classification" expression="&quot;Senior&quot;"/>
+                </then>
+                <else/>
+            </if>
+            <output expression="&quot;You are a(an)&quot; &amp; classification" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
