@@ -2,7 +2,7 @@
 
 ---
 
-## Week #5 - Python Hello World, Input Ouput Processing (IPO)
+## Week #5 - Exam 2, Python Hello World, Input Ouput Processing (IPO)
 
 - Read and Work Through CoLab Page: [Python - Hello World](https://colab.research.google.com/drive/1G6WrqIOqK2h8A4glwYuqMxIQnL35nigd?usp=sharing). See [video walkthrough](https://youtu.be/fYG-IKCoInA))
 
@@ -45,9 +45,10 @@
 - In-Class (or video) Example CoLab Page: [Karate If Statements](https://colab.research.google.com/drive/1KwvVi_nXstcUGpvenBdFOGv0gjqpsq-i?usp=sharing).  
 
 - In-Class (or video) Example: [Urgent? Important? Time Management](https://www.todoist.com/productivity-methods/eisenhower-matrix)
+
 ---
 
-## Week #7 Python - Repetition (loops), Lists, Exam 3 (Python and Ethical Issues)
+## Week #7 
 
 
 ### Repetition (loops)
@@ -82,7 +83,7 @@
 - Watch Video [Lists Example Projects](https://youtu.be/GpFUpK-Nois)
 
 
-## Final Exam
+## Final Exam Review
 
 - Review [Topics and Sample questions](https://github.com/ProfLehman/cs111_summer_2026/blob/main/topics/exam3_python/python_exam_3_review.md)
   
@@ -95,5 +96,5 @@
 - Watch Video [Python Exam Review Questions 19 to 25](https://youtu.be/alIobygVNk8)
 
 ---
-Updated April 24, 2026
+Updated June 1, 2026
 ---
